@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/DroneAR_OVR.unity
     guid: 99c7cf2c3a030fa42a22d67132e4a232
   m_configObjects:
