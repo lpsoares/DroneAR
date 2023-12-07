@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/DroneAR_OVR.unity
+    guid: 99c7cf2c3a030fa42a22d67132e4a232
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f3c19e39e1501c24b851141cb9dd2158, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d73ac744a17fb2e4c91dc67fc2797f9b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 72855cd8701b30d4e9bce5761eaac364, type: 2}
